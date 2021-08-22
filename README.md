@@ -7,10 +7,10 @@ Data Analytics Internship at the Management Information Systems department at m:
 ### Structure of this repository
 - `/datasets` 	(used to store our datasets)
 - `/meetings` 	(used to store all notes from our meetings)
-- `/project01` 	project 1 - data exploration
-- `/project02`  project 2 - data visualization
-- `/project03` 	project 3 -
-- `/project04`  project 4 -
+- `/project01` 	(used to store SQL script for project 1 - data exploration)
+- `/project02`  (used to store SQL script and tables for project 2 - data visualization)
+- `/project03` 	(project 3 -)
+- `/project04`  (project 4 -)
 - `/presentation`	(pptx for presentation)
 
 Here at [this link](https://public.tableau.com/views/covid_dashboard_p2/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link), you can find a visualized representation of some Covid-19 data.
