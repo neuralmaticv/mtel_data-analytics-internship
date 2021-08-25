@@ -9,7 +9,8 @@ Data Analytics Internship at the Management Information Systems department at m:
 - `/presentation`	(used to store presentations)
 - `/project01` 	(used to store SQL script for project 1 - data exploration)
 - `/project02`  (used to store SQL script and tables for project 2 - data visualization)
-- `/project03` 	(project 3 -)
-- `/project04`  (project 4 -)
+- `/project03` 	(used to store SQL script for project 3 - data cleaning)
+- `/project04`  (used to store Jupyter Notebook file for project 4 - finding correlation between movies data)
+- `/project05`  (used to store Jupyter Notebook file for project 5 - scraping product information from Amazon)
 
 Here at [this link](https://public.tableau.com/views/covid_dashboard_p2/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link), you can find a visualized representation of some Covid-19 data.
