@@ -1,12 +1,12 @@
 ﻿# Meeting notes | Week 1
 #### Day 1
-> Date: 16.08.2021.
+> Date: Aug. 16, 2021
 - mentor introduced us to work methods and the role of the Management Information Systems department within the company
 - we discussed the structure of the internship and our future tasks
 - we went through the skills and experiences
 ---
 #### Day 2
-> Date: 17.08.2021.
+> Date: Aug. 17, 2021
 - introduction to data science and data analysis
 - presentation of a theory
 - Domain Expertise
@@ -18,7 +18,7 @@
 - we discussed tech stack that we gonna use 
 ---
 #### Day 3
-> Date: 18.08.2021.
+> Date: Aug. 18, 2021
 - we started learning by following [Database Management Essentials course](https://www.coursera.org/learn/database-management)
 - DBMS - Database Management System
 - Enterprise DBMSs
@@ -29,14 +29,14 @@
 - DWH processing
 ---
 #### Day 4
-> Date: 19.08.2021.
+> Date: Aug. 19, 2021
 - installed and setted up Oracle Database and Oracle SQL Developer
 - fixed several bugs occurred during the installation process
 - practicing SQL queries
 - searching for data sets
 ---
 #### Day 5
-> Date: 20.08.2021.
+> Date: Aug. 20, 2021
 - went through the [dataset](https://ourworldindata.org/covid-deaths)
 - split about who will analyze which part of a dataset
 - went through the dataset, exploratory analysis
