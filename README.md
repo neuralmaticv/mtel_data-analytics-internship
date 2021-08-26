@@ -17,11 +17,16 @@ The repository contains all of the files that were used and created during the i
 - `/project05`  (used to store Jupyter Notebook file for project 5 - scraping product information from Amazon)
 
 ### Tech stack:
-`Oracle Database Express Edition (XE)`
-`Oracle SQL Developer`
-`Tableau`
-`Jupyter Notebook`
-`Python`
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-Oracle-ff0000?style=for-the-badge&logo=Oracle"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Made%20with-Tableau-1c4481?style=for-the-badge&logo=Tableau"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Made%20with-Python-1f425f?style=for-the-badge&logo=Python"/>&nbsp;&nbsp;&nbsp;
+</p>
+
 
 ### Presentation:
-Here at [this link](https://public.tableau.com/views/covid_dashboard_p2/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link), you can find a visualized representation of some Covid-19 data.
+Here at [this link](https://public.tableau.com/views/covid_dashboard_p2/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link), you can find a graphical representation of some Covid-19 data.
+
+### License:
+[Apache License 2.0](https://github.com/vladocodes/data-analytics-internship/blob/main/LICENSE)
