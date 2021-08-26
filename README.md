@@ -18,12 +18,13 @@ The repository contains all of the files that were used and created during the i
 
 ### Tech stack:
 <p>
-  <img src="https://img.shields.io/badge/Made%20with-Oracle-ff0000?style=for-the-badge&logo=Oracle"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Made%20with-Tableau-1c4481?style=for-the-badge&logo=Tableau"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Made%20with-Python-1f425f?style=for-the-badge&logo=Python"/>&nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Made%20with-Oracle-ff0000?style=for-the-badge&amp;logo=Oracle"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Made%20with-Tableau-1c4481?style=for-the-badge&amp;logo=Tableau"></a>&nbsp;&nbsp;&nbsp; 
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&amp;logo=Jupyter"></a> <br><br>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f?style=for-the-badge&amp;logo=Python"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Made%20with-NumPy-4dabcf?style=for-the-badge&amp;logo=numpy"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Made%20with-Pandas-130654?style=for-the-badge&amp;logo=pandas"></a>
 </p>
-
 
 ### Presentation:
 Here at [this link](https://public.tableau.com/views/covid_dashboard_p2/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link), you can find a graphical representation of some Covid-19 data.
