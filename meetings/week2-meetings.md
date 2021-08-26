@@ -23,9 +23,9 @@
 - we discussed our future projects
 - plan the next steps and think about what to include in the report
 - **TODO**: 
-	 - [ ] do some formatting in the code;
+	 - [x] do some formatting in the code;
 	 - [ ] change some things in Tableau visualization,
-	 - [ ] add some markdown in notebooks
+	 - [x] add some markdown in notebooks
 	 - [ ] write the final report and prepare for it
 ---
 #### Day 4
