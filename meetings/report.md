@@ -98,18 +98,17 @@ Tokom trajanja prakse je planirano da se urade četiri mini-projekta:
 - Predavanje izvještaja
 ---
 ## GitHub linkovi:
-- **Source code:**
+- **Source code:**  
+	[Projekat 1 - eksplorativna analiza podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project01)  
+	[Projekat 2 - vizualizacija analiziranih podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project02)  
+	[Projekat 3 - eksplorativna analiza i čišćenje podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project03)  
+	[Projekat 4 - upoređivanje korelacije između podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project04)  
+	[Projekat 5 - web scraping](https://github.com/vladocodes/data-analytics-internship/tree/main/project05)  
 
-	[Projekat 1 - eksplorativna analiza podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project01)
-	[Projekat 2 - vizualizacija analiziranih podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project02)
-	[Projekat 3 - eksplorativna analiza i čišćenje podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project03)
-	[Projekat 4 - upoređivanje korelacije između podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project04)
-	[Projekat 5 - web scraping](https://github.com/vladocodes/data-analytics-internship/tree/main/project05)
-
-- **Dodatak:**
-	[Skupovi podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/datasets)
-	[Bilješke](https://github.com/vladocodes/data-analytics-internship/tree/main/meetings)
-	[Prezentacije](https://github.com/vladocodes/data-analytics-internship/tree/main/presentation)
+- **Dodatak:**  
+	[Skupovi podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/datasets)  
+	[Bilješke](https://github.com/vladocodes/data-analytics-internship/tree/main/meetings)  
+	[Prezentacije](https://github.com/vladocodes/data-analytics-internship/tree/main/presentation)  
 
 ---
 
