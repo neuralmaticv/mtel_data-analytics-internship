@@ -91,10 +91,35 @@ Tokom trajanja prakse je planirano da se urade četiri mini-projekta:
 > Datum: Aug. 26, 2021
 - Iz prethodnog data prenosimo sljedeće zadatke:
 	-  [x] pripremiti završni izvještaj
-	 - [ ] poboljšati grafički prikaz u Tableau;
+	-  [x] poboljšati grafički prikaz u Tableau;
 ---
 #### Dan 5
 > Datum: Aug. 27, 2021
+- Predavanje izvještaja
+---
+## GitHub linkovi:
+- **Source code:**
 
+	[Projekat 1 - eksplorativna analiza podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project01)
+	[Projekat 2 - vizualizacija analiziranih podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project02)
+	[Projekat 3 - eksplorativna analiza i čišćenje podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project03)
+	[Projekat 4 - upoređivanje korelacije između podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project04)
+	[Projekat 5 - web scraping](https://github.com/vladocodes/data-analytics-internship/tree/main/project05)
 
+- **Dodatak:**
+	[Skupovi podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/datasets)
+	[Bilješke](https://github.com/vladocodes/data-analytics-internship/tree/main/meetings)
+	[Prezentacije](https://github.com/vladocodes/data-analytics-internship/tree/main/presentation)
 
+---
+
+## Korištene tehnologije i alati:
+
+<p>
+<a href="https://www.oracle.com/index.html"><img src="https://img.shields.io/badge/Made%20with-Oracle-ff0000?style=for-the-badge&amp;logo=Oracle"></a>&nbsp;&nbsp;
+<a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Made%20with-Tableau-1c4481?style=for-the-badge&amp;logo=Tableau"></a>&nbsp;&nbsp; 
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&amp;logo=Jupyter"></a> <br><br>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f?style=for-the-badge&amp;logo=Python"></a>&nbsp;&nbsp;
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/Made%20with-NumPy-4dabcf?style=for-the-badge&amp;logo=numpy"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Made%20with-Pandas-130654?style=for-the-badge&amp;logo=pandas"></a>
+</p>
