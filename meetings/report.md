@@ -1,5 +1,8 @@
 # Praksa u kompaniji mtel
 
+> Online verzija stranice se nalazi na [ovom linku](https://vladocodes.github.io/data-analytics-internship/).  
+> GitHub repozitorijum za praksu je na [ovom linku](https://github.com/vladocodes/data-analytics-internship).
+
  > **Tema:** Analiza podataka
  **Mentor:** dipl. inž. Siniša Roljić, glavni inženjer za poslovnu analitiku
 
