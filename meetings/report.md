@@ -1,4 +1,4 @@
-﻿# Praksa u kompaniji mtel
+# Praksa u kompaniji mtel
 
  > **Tema:** Analiza podataka
  **Mentor:** dipl. inž. Siniša Roljić, glavni inženjer za poslovnu analitiku
