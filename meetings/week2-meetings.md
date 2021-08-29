@@ -1,4 +1,4 @@
-﻿# Meeting notes | Week 2
+# Meeting notes | Week 2
 #### Day 1
 > Date: Aug. 23, 2021
 - data visualization was done in Tableau
@@ -24,15 +24,17 @@
 - plan the next steps and think about what to include in the report
 - **TODO**: 
 	 - [x] do some formatting in the code;
-	 - [ ] change some things in Tableau visualization,
-	 - [x] add some markdown in notebooks
-	 - [ ] write the final report and prepare for it
+	 - [x] add some markdown in notebooks;
+	 - [ ] change some things in Tableau visualizationl;
+	 - [ ] write the final report and prepare for it;
 ---
 #### Day 4
 > Date: Aug. 26, 2021
+- from the previous day we transfer the following tasks:
+	- [x] change some things in Tableau visualizationl;
+	- [x] write the final report and prepare for it;
 
 ---
 #### Day 5
 > Date: Aug. 27, 2021
-
-
+- submitting progress and final reports
