@@ -1,4 +1,4 @@
-﻿# Meeting notes | Week 1
+# Meeting notes | Week 1
 #### Day 1
 > Date: Aug. 16, 2021
 - mentor introduced us to work methods and the role of the Management Information Systems department within the company
