@@ -3,7 +3,7 @@
 > Online verzija stranice se nalazi na [ovom linku](https://vladocodes.github.io/data-analytics-internship/).  
 > GitHub repozitorijum za praksu je na [ovom linku](https://github.com/vladocodes/data-analytics-internship).
 
- > **Tema:** Analiza podataka
+ > **Tema:** Analiza podataka i uvod u Data Warehousing i Business Intelligence  
  **Mentor:** dipl. inž. Siniša Roljić, glavni inženjer za poslovnu analitiku
 
 Tokom trajanja prakse je planirano da se urade četiri mini-projekta:
@@ -11,8 +11,9 @@ Tokom trajanja prakse je planirano da se urade četiri mini-projekta:
 * Projekat 2 - vizualizacija analiziranih podataka u Tableau-u
 * Projekat 3 - eksplorativna analiza i čišćenje baze podataka sa SQL-om
 * Projekat 4 - upoređivanje korelacije između podataka uz pomoć programskog jezika Python i biblioteka: NumPy, Pandas i Matplotlib
-
 ---
+<br>
+
 ## Bilješke | Sedmica 1
 #### Dan 1
 > Datum: Aug. 16, 2021
@@ -60,6 +61,8 @@ Tokom trajanja prakse je planirano da se urade četiri mini-projekta:
 - kreirali smo par SQL tabela za interesantnim podacima kako bi ih grafički prikazali u Tableau za drugi projekat
 - planiranje narednih koraka
 ---
+<br>
+
 ## Bilješke | Sedmica 2
 #### Dan 1
 > Datum: Aug. 23, 2021
@@ -100,6 +103,8 @@ Tokom trajanja prakse je planirano da se urade četiri mini-projekta:
 > Datum: Aug. 27, 2021
 - Predavanje izvještaja
 ---
+<br>
+
 ## GitHub linkovi:
 - **Source code:**  
 	[Projekat 1 - eksplorativna analiza podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project01)  
@@ -114,6 +119,7 @@ Tokom trajanja prakse je planirano da se urade četiri mini-projekta:
 	[Prezentacije](https://github.com/vladocodes/data-analytics-internship/tree/main/presentation)  
 
 ---
+<br>
 
 ## Korištene tehnologije i alati:
 
