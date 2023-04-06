@@ -1,7 +1,7 @@
 # Data Analytics Internship at mtel company
 
-> Online version of this page (**in Bosnian only**) is at [this link](https://vladocodes.github.io/data-analytics-internship/).   
-> [Link to GitHub repository](https://github.com/vladocodes/data-analytics-internship). 
+> Online version of this page (**in Bosnian only**) is at [this link](https://neuralmaticv.github.io/data-analytics-internship/).   
+> [Link to GitHub repository](https://github.com/neuralmaticv/data-analytics-internship). 
 
  > **Theme:** Data analysis and Introduction to Data Warehousing and Business Intelligence  
  **Mentor:** B.Sc.E.E. Siniša Roljić, main engineer for Business Analytics
@@ -106,16 +106,16 @@ During the internship, it is planned to do four mini-projects:
 
 ## GitHub links:
 - **Source code:**  
-	[Project 1 - exploratory data analysis](https://github.com/vladocodes/data-analytics-internship/tree/main/project01)  
-	[Project 2 - data visualization](https://github.com/vladocodes/data-analytics-internship/tree/main/project02)  
-	[Project 3 - exploratory analysis and data cleaning](https://github.com/vladocodes/data-analytics-internship/tree/main/project03)  
-	[Project 4 - correlation between data](https://github.com/vladocodes/data-analytics-internship/tree/main/project04)  
-	[Project 5 - web scraping](https://github.com/vladocodes/data-analytics-internship/tree/main/project05)  
+	[Project 1 - exploratory data analysis](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project01)  
+	[Project 2 - data visualization](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project02)  
+	[Project 3 - exploratory analysis and data cleaning](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project03)  
+	[Project 4 - correlation between data](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project04)  
+	[Project 5 - web scraping](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project05)  
 
 - **Extra:**  
-	[Datasets](https://github.com/vladocodes/data-analytics-internship/tree/main/datasets)  
-	[Notes](https://github.com/vladocodes/data-analytics-internship/tree/main/meetings)  
-	[Presentations](https://github.com/vladocodes/data-analytics-internship/tree/main/presentation)  
+	[Datasets](https://github.com/neuralmaticv/data-analytics-internship/tree/main/datasets)  
+	[Notes](https://github.com/neuralmaticv/data-analytics-internship/tree/main/meetings)  
+	[Presentations](https://github.com/neuralmaticv/data-analytics-internship/tree/main/presentation)  
 
 ---
 <br/>
