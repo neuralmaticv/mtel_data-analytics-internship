@@ -34,11 +34,11 @@ The repository contains all of the files that were used and created during the i
 <br/>
 
 ## Report and presentation:
-Read the report [here](https://github.com/vladocodes/data-analytics-internship/blob/main/meetings/report_eng.md)  
+Read the report [here](https://github.com/neuralmaticv/data-analytics-internship/blob/main/meetings/report_eng.md)  
 Graphical representation of some COVID-19 data is at [this link](https://public.tableau.com/views/covid_dashboard_p2/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 <br/>
 
 
 ## License:
-[Apache License 2.0](https://github.com/vladocodes/data-analytics-internship/blob/main/LICENSE)
+[Apache License 2.0](https://github.com/neuralmaticv/data-analytics-internship/blob/main/LICENSE)
