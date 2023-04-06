@@ -1,7 +1,7 @@
 # Praksa u kompaniji mtel
 
-> Online verzija stranice se nalazi na [ovom linku](https://vladocodes.github.io/data-analytics-internship/).  
-> GitHub repozitorijum za praksu je na [ovom linku](https://github.com/vladocodes/data-analytics-internship).
+> Online verzija stranice se nalazi na [ovom linku](https://neuralmaticv.github.io/data-analytics-internship/).  
+> GitHub repozitorijum za praksu je na [ovom linku](https://github.com/neuralmaticv/data-analytics-internship).
 
  > **Tema:** Analiza podataka i uvod u Data Warehousing i Business Intelligence  
  **Mentor:** dipl. inž. Siniša Roljić, glavni inženjer za poslovnu analitiku
@@ -107,16 +107,16 @@ Tokom trajanja prakse je planirano da se urade četiri mini-projekta:
 
 ## GitHub linkovi:
 - **Source code:**  
-	[Projekat 1 - eksplorativna analiza podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project01)  
-	[Projekat 2 - vizualizacija analiziranih podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project02)  
-	[Projekat 3 - eksplorativna analiza i čišćenje podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project03)  
-	[Projekat 4 - upoređivanje korelacije između podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/project04)  
-	[Projekat 5 - web scraping](https://github.com/vladocodes/data-analytics-internship/tree/main/project05)  
+	[Projekat 1 - eksplorativna analiza podataka](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project01)  
+	[Projekat 2 - vizualizacija analiziranih podataka](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project02)  
+	[Projekat 3 - eksplorativna analiza i čišćenje podataka](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project03)  
+	[Projekat 4 - upoređivanje korelacije između podataka](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project04)  
+	[Projekat 5 - web scraping](https://github.com/neuralmaticv/data-analytics-internship/tree/main/project05)  
 
 - **Dodatak:**  
-	[Skupovi podataka](https://github.com/vladocodes/data-analytics-internship/tree/main/datasets)  
-	[Bilješke](https://github.com/vladocodes/data-analytics-internship/tree/main/meetings)  
-	[Prezentacije](https://github.com/vladocodes/data-analytics-internship/tree/main/presentation)  
+	[Skupovi podataka](https://github.com/neuralmaticv/data-analytics-internship/tree/main/datasets)  
+	[Bilješke](https://github.com/neuralmaticv/data-analytics-internship/tree/main/meetings)  
+	[Prezentacije](https://github.com/neuralmaticv/data-analytics-internship/tree/main/presentation)  
 
 ---
 <br>
